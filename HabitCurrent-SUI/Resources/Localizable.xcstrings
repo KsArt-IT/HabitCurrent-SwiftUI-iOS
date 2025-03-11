@@ -1,0 +1,50 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "Flow" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Поток"
+          }
+        }
+      }
+    },
+    "Habit Flow" : {
+
+    },
+    "Habit Month" : {
+
+    },
+    "Habit Week" : {
+
+    },
+    "KsArT.pro" : {
+      "shouldTranslate" : false
+    },
+    "Month" : {
+
+    },
+    "Settings" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Настройки"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Налаштування"
+          }
+        }
+      }
+    },
+    "Week" : {
+
+    }
+  },
+  "version" : "1.0"
+}
